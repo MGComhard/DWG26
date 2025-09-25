@@ -56,7 +56,6 @@ try {
         }
     }
 
-    echo "<div class='info'><b>Datum und Uhrzeit:</b> $datumZeit</div>";
     echo "<div class='info'><b>Vollständige URL:</b> $url</div>";
     echo "<div class='info'><b>IP-Adresse:</b> $ipAdresse</div>";
     echo "<div class='info'><b>Browser:</b> $browserName</div>";
@@ -94,3 +93,4 @@ try {
 
 include 'footer.php';
 ?>
+
